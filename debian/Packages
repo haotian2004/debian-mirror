@@ -1,0 +1,15 @@
+Package: HelloWorld
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: haotian2004.github.io
+Installed-Size: 1024
+Filename: main/helloworld.deb
+Size: 3008
+MD5sum: 313f195e42965b9543ebfb328f86b183
+SHA1: 8582338ece072f3b4fb7cc5026013ef8910dafe5
+SHA256: 3dea3269c31c3044696cd522b8c712694ee366658c06a0dbd9e0bd31506e5599
+Section: custom
+Priority: optional
+Description: HelloWorld
+
